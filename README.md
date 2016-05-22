@@ -1,2 +1,1 @@
-# gitbook_cocos2d_js_jsdoc
-gitbook_cocos2d_js_jsdoc
+[GitBook Cocos Protocol Buffer](https://www.gitbook.com/book/supersuraccoon/gitbook_cocos_protobuf) source code.
